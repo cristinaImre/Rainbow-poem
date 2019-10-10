@@ -5,6 +5,7 @@ Sun
 Blue
 Red
 Orange
+Green
 Rain
 Sky
 Rainbow
