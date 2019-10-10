@@ -3,6 +3,7 @@ Rainbow
 Rainbow
 Sun
 Blue
+Yellow
 Red
 Orange
 Green
