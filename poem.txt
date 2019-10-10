@@ -1,5 +1,6 @@
 Rainbow
 Magic unicorn
+Fairies
 
 Rainbow
 Sun
@@ -15,3 +16,4 @@ Sky
 Rainbow
 These is how a rainbow looks like.
 I love unicorns.
+White fairies are flying around.
